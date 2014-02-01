@@ -5,3 +5,5 @@ Read data file
 Run Analysis
 
 Make table
+
+Make small figure
